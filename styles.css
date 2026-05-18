@@ -229,6 +229,33 @@ h1 {
   color: var(--text);
   border: 1px solid var(--border);
 }
+.btn.hint {
+  background: rgba(255, 255, 255, 0.08);
+  color: #facc15;
+  border: 1px solid rgba(250, 204, 21, 0.35);
+}
+.btn.hint:hover {
+  background: rgba(250, 204, 21, 0.12);
+}
+.hint-row {
+  display: flex;
+  gap: 12px;
+  align-items: center;
+  flex-wrap: wrap;
+  margin-bottom: 14px;
+}
+.hint-box {
+  flex: 1;
+  padding: 12px 14px;
+  border-radius: 10px;
+  background: rgba(250, 204, 21, 0.08);
+  border: 1px solid rgba(250, 204, 21, 0.24);
+  color: #f8fafc;
+  font-size: 0.95rem;
+}
+.hint-box strong {
+  color: #fde68a;
+}
 .btn.small {
   padding: 8px 10px;
   font-size: 0.95rem;

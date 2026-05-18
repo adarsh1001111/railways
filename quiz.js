@@ -10,6 +10,7 @@ let userScore = 0;
 let selectedOptionKey = null;
 let isAnswerSubmitted = false;
 let userAnswers = [];
+let hintUsed = [];
 // submittedFlags removed — answers are saved immediately and final scoring happens at finish
 
 function registerPaper(id, data) {
@@ -22,6 +23,7 @@ function loadPaper(id) {
   // ensure length and initialize answers
   if (!Array.isArray(quizData)) quizData = [];
   userAnswers = new Array(quizData.length).fill(null);
+  hintUsed = new Array(quizData.length).fill(false);
   // no per-question submitted flags; keep answers array only
   currentQuestionIndex = 0;
   userScore = 0;
@@ -97,15 +99,42 @@ function loadQuestion() {
         <div class="option-text"><span class="opt-en">(${opt.key}) ${opt.en}</span><span class="opt-hi">${opt.hi}</span></div>
       </div>`;
   });
+  const hintButtonLabel = hintUsed[currentQuestionIndex]
+    ? "💡 Hide hint"
+    : "💡 Show hint";
   container.innerHTML = `
     <div class="question-card"><div class="lang-en">${currentQuestionIndex + 1}. ${currentQuestion.en}</div><div class="lang-hi">${currentQuestion.hi}</div></div>
+    <div class="hint-row">
+      <button class="btn hint small" id="hint-btn" onclick="showHint()">${hintButtonLabel}</button>
+      <div id="hint-box" class="hint-box" style="display: none;"></div>
+    </div>
     <div class="options-list">${optionsHTML}</div>`;
+  // update the footer hint button label too
+  const footerHintBtn = document.querySelector(".quiz-footer .btn.hint");
+  if (footerHintBtn) footerHintBtn.innerText = hintButtonLabel;
+
   // restore prev
   const prev = userAnswers[currentQuestionIndex];
   if (prev) {
     selectedOptionKey = prev;
     const r = document.getElementById(`radio-${prev}`);
     if (r) r.checked = true;
+  }
+  if (hintUsed[currentQuestionIndex]) {
+    const correctKey = currentQuestion.ans;
+    const correctBlock = document.getElementById(`opt-block-${correctKey}`);
+    if (correctBlock) correctBlock.classList.add("correct");
+    if (selectedOptionKey && selectedOptionKey !== correctKey) {
+      const wrongBlock = document.getElementById(
+        `opt-block-${selectedOptionKey}`,
+      );
+      if (wrongBlock) wrongBlock.classList.add("wrong");
+    }
+    const hintBox = document.getElementById("hint-box");
+    if (hintBox) {
+      hintBox.style.display = "block";
+      hintBox.innerHTML = `Correct answer: <strong>(${currentQuestion.ans}) ${currentQuestion.opts.find((o) => o.key === currentQuestion.ans)?.en}</strong>`;
+    }
   }
   // do not reveal correctness until finish; options remain enabled for change
   updateSidebarState();
@@ -168,6 +197,12 @@ function resetSelection() {
 
 function goToQuestion(i) {
   currentQuestionIndex = i;
+  loadQuestion();
+}
+
+function showHint() {
+  if (!quizData[currentQuestionIndex]) return;
+  hintUsed[currentQuestionIndex] = !hintUsed[currentQuestionIndex];
   loadQuestion();
 }
 
@@ -243,6 +278,8 @@ function showQuizPanel() {
   if (quizWindow) quizWindow.style.display = "grid";
   const resultWindow = document.getElementById("result-window");
   if (resultWindow) resultWindow.style.display = "none";
+  const paperSelect = document.querySelector(".paper-select");
+  if (paperSelect) paperSelect.style.display = "none";
 }
 
 function showChooserPanel() {
@@ -254,6 +291,8 @@ function showChooserPanel() {
   if (quizWindow) quizWindow.style.display = "none";
   const resultWindow = document.getElementById("result-window");
   if (resultWindow) resultWindow.style.display = "none";
+  const paperSelect = document.querySelector(".paper-select");
+  if (paperSelect) paperSelect.style.display = "flex";
 }
 
 function startPaper() {
@@ -316,11 +355,6 @@ function startPaper() {
           ".json exists or run a local server; falling back to embedded data failed.",
       );
     });
-}
-
-function returnToChooser() {
-  quizStarted = false;
-  showChooserPanel();
 }
 
 function returnToChooser() {
