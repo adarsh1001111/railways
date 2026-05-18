@@ -1983,16 +1983,20 @@
     "en": "What does Abstract Z in Railway accounting denote?",
     "hi": "रेलवे लेखांकन में एब्सट्रैक्ट Z क्या दर्शाता है?",
     "opts": [
-      { "key": "A", "en": "Earnings", "hi": "आय" },
-      { "key": "B", "en": "Gross Working Expenses", "hi": "सकल कार्य व्यय" },
-      { "key": "C", "en": "Suspense Accounts", "hi": "सस्पेंस खाते" },
       {
-        "key": "D",
-        "en": "None of the given Options is correct.",
-        "hi": "दिए गए विकल्पों में से कोई भी सही नहीं है।"
-      }
+        "key": "A",
+        "en": "Earnings from Passenger Traffic",
+        "hi": "यात्री यातायात से आय"
+      },
+      {
+        "key": "B",
+        "en": "Earnings from Goods Traffic",
+        "hi": "माल भाड़ा यातायात से आय"
+      },
+      { "key": "C", "en": "Sundry Other Earnings", "hi": "विविध अन्य आय" },
+      { "key": "D", "en": "Gross Working Expenses", "hi": "सकल कार्य व्यय" }
     ],
-    "ans": "B"
+    "ans": "C"
   },
   {
     "en": "Which among the following is/are CORRECT with reference to “Charged Expenditure”, viz. the expenditure \"charged\" on the Consolidated Fund of India in respect of Railways?\nI. The estimates of expenditure charged upon the Consolidated Fund of India shall be submitted to the vote of Parliament.\nII. The salary, allowances and pension payable to or in respect of the Comptroller and Auditor General of India.\nIII. Any sums required to satisfy any judgement, decree or award of any Court or awards by Arbitrators where made into rule of court;\nIV. Any other expenditure declared by the Constitution or by Parliament by law to be so charged.",

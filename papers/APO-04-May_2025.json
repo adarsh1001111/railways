@@ -1,0 +1,673 @@
+[
+  {
+    "en": "As per Official Language Rules 1976, when an employee shall be deemed to have acquired Proficiency in Hindi?",
+    "hi": "राजभाषा नियम 1976 के अनुसार किसी कर्मचारी को कब हिंदी में प्रवीणता प्राप्त मानी जाएगी?",
+    "opts": [
+      { "key": "A", "en": "If he has passed the Matriculation or any equivalent or higher examination with Hindi as the medium of examination.", "hi": "यदि उसने मैट्रिकुलेशन या समकक्ष या उच्चतर परीक्षा हिन्दी माध्यम से उत्तीर्ण की हो।" },
+      { "key": "B", "en": "If he has taken Hindi as an elective subject in the degree examination or any other examination equivalent to or higher than the degree examination.", "hi": "यदि उसने डिग्री परीक्षा या डिग्री परीक्षा के समकक्ष या उससे उच्चतर किसी अन्य परीक्षा में हिन्दी को वैकल्पिक विषय के रूप में लिया हो।" },
+      { "key": "C", "en": "If he declares himself to possess proficiency in Hindi in the form annexed to the Official Language Rules.", "hi": "यदि वह राजभाषा नियमों से संलग्न प्रपत्र में यह घोषित कर दे कि वह हिन्दी में प्रवीण है।" },
+      { "key": "D", "en": "If Railway servant fulfils any one of the given options.", "hi": "यदि रेलवे कर्मचारी दिए गए विकल्पों में से किसी एक को पूरा करता है।" }
+    ],
+    "ans": "Deleted"
+  },
+  {
+    "en": "Which of the following is CORRECT about Rule-5 of the Official Language Rules 1976?",
+    "hi": "राजभाषा नियम 1976 के नियम-5 के बारे में निम्नलिखित में से कौन सा कथन सही है?",
+    "opts": [
+      { "key": "A", "en": "Communications received in Hindi are to be replied in Hindi only by Central Government Offices.", "hi": "केन्द्र सरकार के कार्यालयों द्वारा हिन्दी में प्राप्त पत्रों का उत्तर केवल हिन्दी में ही दिया जाना है।" },
+      { "key": "B", "en": "Both Hindi and English shall be used for all documents referred to in communication from a Central Government Office to State or Union Territory in Region \"C\".", "hi": "क्षेत्र 'ग' में केन्द्रीय सरकार के कार्यालय से राज्य या संघ राज्य क्षेत्र को भेजे जाने वाले पत्र-व्यवहार में संदर्भित सभी दस्तावेजों के लिए हिंदी और अंग्रेजी दोनों का प्रयोग किया जाएगा।" },
+      { "key": "C", "en": "Both Hindi and English shall be used for all documents referred to in communication from a Central Government Office to State or Union Territory in Region \"B\".", "hi": "क्षेत्र 'ख' में केन्द्रीय सरकार के कार्यालय से राज्य या संघ राज्य क्षेत्र को भेजे जाने वाले पत्र-व्यवहार में संदर्भित सभी दस्तावेजों के लिए हिंदी और अंग्रेजी दोनों का प्रयोग किया जाएगा।" },
+      { "key": "D", "en": "None of the given Options is correct.", "hi": "दिए गए विकल्पों में से कोई भी सही नहीं है।" }
+    ],
+    "ans": "A"
+  },
+  {
+    "en": "Under which Article of the Indian Constitution, English language, in addition to Hindi Language, may also be used for official purposes of the Union?",
+    "hi": "भारतीय संविधान के किस अनुच्छेद के तहत संघ के आधिकारिक प्रयोजनों के लिए हिंदी भाषा के अतिरिक्त अंग्रेजी भाषा का भी प्रयोग किया जा सकता है?",
+    "opts": [
+      { "key": "A", "en": "Article 323", "hi": "अनुच्छेद 323" },
+      { "key": "B", "en": "Article 362", "hi": "अनुच्छेद 362" },
+      { "key": "C", "en": "Article 343", "hi": "अनुच्छेद 343" },
+      { "key": "D", "en": "None of the given Options is correct.", "hi": "दिए गए विकल्पों में से कोई भी सही नहीं है।" }
+    ],
+    "ans": "C"
+  },
+  {
+    "en": "What is \"Shrutlekhan-Rajbhasha\"?\nI. Hindi speech recognition system developed by C-DAC.\nII. Translates \"dictation\" or \"writing from what is heard,\" refers to the act of writing down words that are spoken or read aloud.\nIII. Output is in UNICODE, a universally accepted font.\nIV. The user communicates with the application through the appropriate input device i.e. a microphone. The Recognizer converts the analog signal into digital signal for the speech processing. A stream of text is generated after the processing.",
+    "hi": "\"श्रुतलेखन-राजभाषा\" क्या है?\nI. सी-डैक द्वारा विकसित हिंदी वाक पहचान प्रणाली।\nII. \"श्रुतलेख\" या \"सुनी हुई बातों से लिखना\" का अनुवाद, बोले गए या पढ़े गए शब्दों को लिखने की क्रिया को संदर्भित करता है।\nIII. आउटपुट यूनिकोड में है, जो एक सार्वभौमिक रूप से स्वीकृत फॉन्ट है।\nIV. उपयोगकर्ता उपयुक्त इनपुट डिवाइस यानी माइक्रोफ़ोन के माध्यम से एप्लिकेशन के साथ संचार करता है। पहचानकर्ता वाक् प्रसंस्करण के लिए एनालॉग सिग्नल को डिजिटल सिग्नल में परिवर्तित करता है। प्रसंस्करण के बाद पाठ की एक धारा उत्पन्न होती है।",
+    "opts": [
+      { "key": "A", "en": "I, II & III only.", "hi": "केवल I, II & III." },
+      { "key": "B", "en": "All the given options.", "hi": "सभी दिए गए विकल्प।" },
+      { "key": "C", "en": "I, II & IV only.", "hi": "केवल I, II & IV." },
+      { "key": "D", "en": "None of the given Options is correct.", "hi": "दिए गए विकल्पों में से कोई भी सही नहीं है।" }
+    ],
+    "ans": "B"
+  },
+  {
+    "en": "Communications from a Central Government office to a State or a Union Territory in Region \"A\" or to any office (not being a Central Government office) or person in such State or Union Territory shall, save in exceptional cases, be in Hindi, and if any communication is issued to any of them in English, it shall be accompanied by a Hindi translation thereof. Which Rule of Official Language Rules 1976 provides for the above?",
+    "hi": "केन्द्रीय सरकार के कार्यालय से क्षेत्र 'क' में किसी राज्य या संघ राज्य क्षेत्र को अथवा ऐसे राज्य या संघ राज्य क्षेत्र में किसी कार्यालय (जो केन्द्रीय सरकार का कार्यालय न हो) या व्यक्ति को पत्र-व्यवहार, अपवादात्मक मामलों को छोड़कर, हिन्दी में किया जाएगा और यदि उनमें से किसी को कोई पत्र-व्यवहार अंग्रेजी में किया जाता है तो उसके साथ उसका हिन्दी अनुवाद भी भेजा जाएगा। राजभाषा नियम 1976 के किस नियम में उपर्युक्त का प्रावधान है?",
+    "opts": [
+      { "key": "A", "en": "Rule 3(1)", "hi": "नियम 3(1)" },
+      { "key": "B", "en": "Rule 5(1)", "hi": "नियम 5(1)" },
+      { "key": "C", "en": "Rule 4(1)", "hi": "नियम 4(1)" },
+      { "key": "D", "en": "None of the given Options is correct.", "hi": "दिए गए विकल्पों में से कोई भी सही नहीं है।" }
+    ],
+    "ans": "A"
+  },
+  {
+    "en": "In accordance with Section 3(3) of the Official Languages Act, 1963, the following documents are to be issued in which Language/s?\n(1) Resolutions, General Orders, Rules, Notifications, Administrative or other Reports or Press Communiqués.\n(2) Administrative and other Reports and the Official Papers to be laid before a House or the Houses of the Parliament.\n(3) Contracts and Agreements executed and Licenses, Permits, Notices and Tender Forms issued by or on behalf of Central Government.",
+    "hi": "राजभाषा अधिनियम, 1963 की धारा 3(3) के अनुसार, निम्नलिखित दस्तावेज किस भाषा/भाषाओं में जारी किए जाने हैं?\n(1) संकल्प, सामान्य आदेश, नियम, अधिसूचनाएं, प्रशासनिक या अन्य रिपोर्ट या प्रेस विज्ञप्तियां।\n(2) प्रशासनिक और अन्य रिपोर्ट तथा संसद के सदन या सदनों के समक्ष रखे जाने वाले आधिकारिक कागजात।\n(3) केंद्र सरकार द्वारा या उसकी ओर से निष्पादित अनुबंध और समझौते तथा जारी किए गए लाइसेंस, परमिट, नोटिस और निविदा प्रपत्र।",
+    "opts": [
+      { "key": "A", "en": "Hindi Only", "hi": "केवल हिंदी" },
+      { "key": "B", "en": "English only", "hi": "केवल अंग्रेज़ी" },
+      { "key": "C", "en": "Both Hindi & English", "hi": "हिंदी और अंग्रेजी दोनों" },
+      { "key": "D", "en": "None of the given Options is correct.", "hi": "दिए गए विकल्पों में से कोई भी सही नहीं है।" }
+    ],
+    "ans": "C"
+  },
+  {
+    "en": "As per Official Language Rules 1976, which of the following State comes under Region \"B\"?",
+    "hi": "राजभाषा नियम 1976 के अनुसार निम्नलिखित में से कौन सा राज्य क्षेत्र \"ख\" के अंतर्गत आता है?",
+    "opts": [
+      { "key": "A", "en": "Punjab", "hi": "पंजाब" },
+      { "key": "B", "en": "Chhattisgarh", "hi": "छत्तीसगढ़" },
+      { "key": "C", "en": "Kerala", "hi": "केरल" },
+      { "key": "D", "en": "None of the given Options is correct.", "hi": "दिए गए विकल्पों में से कोई भी सही नहीं है।" }
+    ],
+    "ans": "A"
+  },
+  {
+    "en": "What is the periodicity at which meetings of the Official Language Implementation Committees (OLIC) to be held?",
+    "hi": "राजभाषा कार्यान्वयन समितियों (ओएलआईसी) की बैठकें कब-कब आयोजित की जाएंगी?",
+    "opts": [
+      { "key": "A", "en": "Atleast one meeting in every three months.", "hi": "प्रत्येक तीन माह में कम से कम एक बैठक।" },
+      { "key": "B", "en": "Atleast one meeting in every four months.", "hi": "प्रत्येक चार माह में कम से कम एक बैठक।" },
+      { "key": "C", "en": "Atleast one meeting in every six months.", "hi": "प्रत्येक छः माह में कम से कम एक बैठक।" },
+      { "key": "D", "en": "None of the given Options is correct.", "hi": "दिए गए विकल्पों में से कोई भी सही नहीं है।" }
+    ],
+    "ans": "A"
+  },
+  {
+    "en": "Which of the following is CORRECT about the Rajbhasha Gaurav Puraskar Award?\nI. For writing original book in Hindi on knowledge and science-based subjects.\nII. For writing original book in Hindi on Forensic Science, Police, Criminology Research and Police Administration.\nIII. For writing original book in Hindi on subjects related to Culture, Religion, Arts and Heritage.\nIV. For writing original book in Hindi in the field of law.",
+    "hi": "राजभाषा गौरव पुरस्कार के बारे में निम्नलिखित में से कौन सा कथन सही है?\n1. ज्ञान और विज्ञान आधारित विषयों पर हिंदी में मौलिक पुस्तक लिखने के लिए।\nII. फोरेंसिक साइंस, पुलिस, अपराध विज्ञान अनुसंधान और पुलिस प्रशासन पर हिंदी में मौलिक पुस्तक लिखने के लिए।\nIII. संस्कृति, धर्म, कला और विरासत से संबंधित विषयों पर हिंदी में मौलिक पुस्तक लिखने के लिए।\nIV. कानून के क्षेत्र में हिंदी में मौलिक पुस्तक लिखने के लिए।",
+    "opts": [
+      { "key": "A", "en": "I & II only.", "hi": "केवल I और II" },
+      { "key": "B", "en": "I, II & III only.", "hi": "केवल I, II एवं III" },
+      { "key": "C", "en": "All the above.", "hi": "उपरोक्त सभी।" },
+      { "key": "D", "en": "None of the given Options is correct.", "hi": "दिए गए विकल्पों में से कोई भी सही नहीं है।" }
+    ],
+    "ans": "C"
+  },
+  {
+    "en": "What is the first prize of Rajbhasha Gaurav Puraskar award for writing original book in Hindi on subjects related to Culture, Religion, Arts and Heritage?",
+    "hi": "संस्कृति, धर्म, कला और विरासत से संबंधित विषयों पर हिंदी में मौलिक पुस्तक लिखने के लिए राजभाषा गौरव पुरस्कार का पहला पुरस्कार क्या है?",
+    "opts": [
+      { "key": "A", "en": "2,00,000/-, a certificate and a memento", "hi": "₹2,00,000/-, एक प्रमाण पत्र और एक स्मृति चिन्ह" },
+      { "key": "B", "en": "1,25,000/-, a certificate and a memento", "hi": "₹1,25,000/-, एक प्रमाण पत्र और एक स्मृति चिन्ह" },
+      { "key": "C", "en": "1,50,000/-, a certificate and a memento", "hi": "₹1,50,000/-, एक प्रमाण पत्र और एक स्मृति चिन्ह" },
+      { "key": "D", "en": "None of the given Options is correct.", "hi": "दिए गए विकल्पों में से कोई भी सही नहीं है।" }
+    ],
+    "ans": "C"
+  },
+  {
+    "en": "Which Rule of the Railway Services (Conduct) Rules, 1966 deals with Prohibition of sexual harassment of working women?",
+    "hi": "रेलवे सेवा (आचरण) नियम, 1966 का कौन सा नियम कामकाजी महिलाओं के यौन उत्पीड़न के निषेध से संबंधित है?",
+    "opts": [
+      { "key": "A", "en": "Rule 3 C.", "hi": "नियम 3 सी" },
+      { "key": "B", "en": "Rule 3 B.", "hi": "नियम 3 बी" },
+      { "key": "C", "en": "Rule 3 A.", "hi": "नियम 3 ए" },
+      { "key": "D", "en": "None of the given Options is correct.", "hi": "दिए गए विकल्पों में से कोई भी सही नहीं है।" }
+    ],
+    "ans": "A"
+  },
+  {
+    "en": "Which Rule of the Railway Services (Conduct) Rules, 1966 provides that no Railway Servant shall, in the performance of his official duties, act in a discourteous manner in his official dealing with public?",
+    "hi": "रेलवे सेवा (आचरण) नियम, 1966 का कौन सा नियम यह प्रावधान करता है कि कोई भी रेलवे कर्मचारी अपने सरकारी कर्तव्यों के पालन में, जनता के साथ अपने सरकारी व्यवहार में अशिष्ट तरीके से कार्य नहीं करेगा?",
+    "opts": [
+      { "key": "A", "en": "Rule 3 A (a)", "hi": "नियम 3 ए (ए)" },
+      { "key": "B", "en": "Rule 3 B (i)", "hi": "नियम 3 बी (1)" },
+      { "key": "C", "en": "Rule 3 C (1)", "hi": "नियम 3 सी (1)" },
+      { "key": "D", "en": "None of the given Options is correct.", "hi": "दिए गए विकल्पों में से कोई भी सही नहीं है।" }
+    ],
+    "ans": "A"
+  },
+  {
+    "en": "Which Rule of the Railway Services (Conduct) Rules, 1966 prohibits participating in any demonstration which is prejudicial to the interests of the sovereignty and integrity of India?",
+    "hi": "रेलवे सेवा (आचरण) नियम, 1966 का कौन सा नियम किसी भी ऐसे प्रदर्शन में भाग लेने पर रोक लगाता है जो भारत की संप्रभुता और अखंडता के हितों के लिए हानिकारक हो?",
+    "opts": [
+      { "key": "A", "en": "Rule 6", "hi": "नियम 6" },
+      { "key": "B", "en": "Rule 7", "hi": "नियम 7" },
+      { "key": "C", "en": "Rule 8", "hi": "नियम 8" },
+      { "key": "D", "en": "None of the given Options is correct.", "hi": "दिए गए विकल्पों में से कोई भी सही नहीं है।" }
+    ],
+    "ans": "B"
+  },
+  {
+    "en": "In accordance with Rule 15 - Private Trade or Employment of the Railway Services (Conduct) Rules, 1966, for which of the activities, a Railway Servant is required to obtain the previous sanction of the Government?\nI. Engage directly or indirectly in any trade or business.\nII. Canvass in support of any business or insurance agency etc. owned or managed by any member of his family.\nIII. Participate in or associate himself in any manner in the making of a sponsored media (radio or television program)\nIV. Undertake honorary work of a social or charitable nature.",
+    "hi": "नियम 15 - रेलवे सेवाओं के निजी व्यापार या रोजगार (आचरण) नियम, 1966 के अनुसार, किस गतिविधि के लिए रेलवे कर्मचारी को सरकार की पूर्व मंजूरी प्राप्त करने की आवश्यकता होती है?\nI. किसी भी व्यापार या व्यवसाय में प्रत्यक्ष या अप्रत्यक्ष रूप से संलग्न होना।\nII. अपने परिवार के किसी सदस्य के स्वामित्व या प्रबंधन वाले किसी भी व्यवसाय या बीमा एजेंसी आदि के समर्थन में प्रचार करना।\nIII. प्रायोजित मीडिया (रेडियो या टेलीविजन कार्यक्रम) के निर्माण में किसी भी तरह से भाग लेना या खुद को उससे जोड़ना।\nIV. सामाजिक या धर्मार्थ प्रकृति का मानद कार्य करना।",
+    "opts": [
+      { "key": "A", "en": "I, II & III only.", "hi": "केवल I, II एवं III" },
+      { "key": "B", "en": "II, III & IV only.", "hi": "केवल II, III एवं IV" },
+      { "key": "C", "en": "All the given options are correct.", "hi": "दिए गए सभी विकल्प सही हैं" },
+      { "key": "D", "en": "None of the given Options is correct.", "hi": "दिए गए विकल्पों में से कोई भी सही नहीं है।" }
+    ],
+    "ans": "A"
+  },
+  {
+    "en": "Which Rule of the Railway Services (Conduct) Rules, 1966 prohibits Railway Servant from taking part in politics and elections?",
+    "hi": "रेलवे सेवा (आचरण) नियम, 1966 का कौन सा नियम रेलवे कर्मचारी को राजनीति और चुनावों में भाग लेने से रोकता है?",
+    "opts": [
+      { "key": "A", "en": "Rule 4(1)", "hi": "नियम 4(1)" },
+      { "key": "B", "en": "Rule 6", "hi": "नियम 6" },
+      { "key": "C", "en": "Rule 5(1)", "hi": "नियम 5(1)" },
+      { "key": "D", "en": "None of the given Options is correct.", "hi": "दिए गए विकल्पों में से कोई भी सही नहीं है।" }
+    ],
+    "ans": "C"
+  },
+  {
+    "en": "Who among the following has got powers to condone the 'break-in-service' caused due to participation in illegal strikes?",
+    "hi": "निम्नलिखित में से किसे अवैध हड़तालों में भाग लेने के कारण होने वाली 'सेवा में व्यवधान' को माफ करने की शक्ति प्राप्त है?",
+    "opts": [
+      { "key": "A", "en": "General Manager", "hi": "महाप्रबंधक" },
+      { "key": "B", "en": "Railway Board", "hi": "रेलवे बोर्ड" },
+      { "key": "C", "en": "The President", "hi": "अध्यक्ष" },
+      { "key": "D", "en": "None of the given Options is correct.", "hi": "दिए गए विकल्पों में से कोई भी सही नहीं है।" }
+    ],
+    "ans": "C"
+  },
+  {
+    "en": "Which of the following is CORRECT about Leave Not Due (LND)?\nI. It shall be limited to the leave on half average pay he is likely to earn thereafter.\nII. LND shall be debited against the half pay leave he is likely to earn thereafter.\nIII. A Railway Servant who has been granted LND resigns from service or permitted to retire voluntarily without returning to duty, the LND need not be cancelled.\nIV. The maximum period during the entire service shall be limited to 360 days, on medical certificate.",
+    "hi": "निम्नलिखित में से कौन सा कथन बकाया छुट्टी (एलएनडी) के लिए सही कहा जाता है?\n1. यह आधे औसत वेतन पर छुट्टी तक सीमित होगी जो उसे उसके बाद मिलने की संभावना है।\nII. एलएनडी को उसके बाद मिलने वाली आधी वेतन छुट्टी से डेबिट किया जाएगा।\nIII. कोई रेलवे कर्मचारी जिसे एलएनडी दिया गया है, अगर वह सेवा से इस्तीफा दे देता है या ड्यूटी पर वापस आए बिना स्वेच्छा से सेवानिवृत्त होने की अनुमति देता है, तो एलएनडी को रद्द करने की आवश्यकता नहीं है।\nIV. पूरी सेवा के दौरान अधिकतम अवधि मेडिकल सर्टिफिकेट पर 360 दिनों तक सीमित होगी।",
+    "opts": [
+      { "key": "A", "en": "I, II & III only.", "hi": "केवल I, II एवं III" },
+      { "key": "B", "en": "I, II & IV only.", "hi": "केवल I, II एवं IV" },
+      { "key": "C", "en": "II, III & IV only.", "hi": "केवल II, III एवं IV" },
+      { "key": "D", "en": "None of the given Options is correct.", "hi": "दिए गए विकल्पों में से कोई भी सही नहीं है।" }
+    ],
+    "ans": "B"
+  },
+  {
+    "en": "What is the maximum period of leave that can be granted to an Apprentice Mechanic in Railway Workshop on full stipend?",
+    "hi": "रेलवे वर्कशॉप में प्रशिक्षु मैकेनिक को पूर्ण वजीफे पर दी जाने वाली छुट्टी की अधिकतम अवधि क्या है?",
+    "opts": [
+      { "key": "A", "en": "Not exceeding 15 days in a year.", "hi": "एक वर्ष में 15 दिन से अधिक नहीं।" },
+      { "key": "B", "en": "Not exceeding 16 days in a year.", "hi": "एक वर्ष में 16 दिन से अधिक नहीं" },
+      { "key": "C", "en": "Not exceeding 20 days in a year.", "hi": "एक वर्ष में 20 दिन से अधिक नहीं।" },
+      { "key": "D", "en": "None of the given Options is correct.", "hi": "दिए गए विकल्पों में से कोई भी सही नहीं है।" }
+    ],
+    "ans": "B"
+  },
+  {
+    "en": "What is the maximum period of Maternity Leave that can be granted to a female Railway Servant?",
+    "hi": "एक महिला रेलवे कर्मचारी को दी जाने वाली मातृत्व अवकाश की अधिकतम अवधि क्या है?",
+    "opts": [
+      { "key": "A", "en": "180 days", "hi": "180 दिन" },
+      { "key": "B", "en": "240 days", "hi": "240 दिन" },
+      { "key": "C", "en": "365 days", "hi": "365 दिन" },
+      { "key": "D", "en": "None of the given Options is correct.", "hi": "दिए गए विकल्पों में से कोई भी सही नहीं है।" }
+    ],
+    "ans": "A"
+  },
+  {
+    "en": "How many days a Railway employee is entitled for Special Casual Leave in a calendar year to participate in Cultural activities like Drama, Music and take part in Inter-Railway, Inter-Divisional competitions?",
+    "hi": "एक रेलवे कर्मचारी नाटक, संगीत जैसी सांस्कृतिक गतिविधियों में भाग लेने और अंतर-रेलवे, अंतर-मंडल प्रतियोगिताओं में भाग लेने के लिए एक कैलेंडर वर्ष में कितने दिनों के विशेष आकस्मिक अवकाश का हकदार है?",
+    "opts": [
+      { "key": "A", "en": "50 days.", "hi": "50 दिन." },
+      { "key": "B", "en": "45 days.", "hi": "45 दिन." },
+      { "key": "C", "en": "30 days.", "hi": "30 दिन." },
+      { "key": "D", "en": "None of the given options is correct.", "hi": "दिए गए विकल्पों में से कोई भी सही नहीं है।" }
+    ],
+    "ans": "C"
+  },
+  {
+    "en": "When a Railway servant's father is missing for a period of atleast...... years, he can include his sister/s as dependent relatives in the Privilege Passes / PTOs.",
+    "hi": "जब किसी रेलवे कर्मचारी का पिता कम से कम ...... वर्ष की अवधि के लिए लापता हो जाता है, तो क्या वह अपनी बहन को विशेषाधिकार पास/ पी.टी.ओ. में आश्रित रिश्तेदार के रूप में शामिल कर सकता है?",
+    "opts": [
+      { "key": "A", "en": "5 years.", "hi": "5 वर्ष।" },
+      { "key": "B", "en": "10 years.", "hi": "10 वर्ष।" },
+      { "key": "C", "en": "None of the given options is correct.", "hi": "दिए गए विकल्पों में से कोई भी सही नहीं है।" },
+      { "key": "D", "en": "7 years.", "hi": "7 वर्ष।" }
+    ],
+    "ans": "D"
+  },
+  {
+    "en": "As per Section 2(d) of the Industrial Relations Code, 2020, which of the following is/are CORRECT with reference to the term \"average pay\"?\nI. In the case of monthly paid worker, in three complete calendar months;\nII. In the case of weekly paid worker, in four complete weeks;\nIII. In the case of daily paid worker, in twelve full working days, preceding the date on which the average pay becomes payable.\nIV. If the worker had worked for three complete calendar months or four complete weeks or twelve full working days, as the case may be, and where such calculation cannot be made, the average pay shall be calculated as the average of the wages payable to a worker during the period he actually worked.",
+    "hi": "औद्योगिक संबंध संहिता, 2020 की धारा 2 (डी) के अनुसार, \"औसत वेतन\" शब्द के संदर्भ में निम्नलिखित में से कौन सा/से सही है/हैं?\nI. मासिक वेतन पाने वाले कर्मचारी के मामले में, तीन पूर्ण कैलेंडर महीनों में;\nII. साप्ताहिक भुगतान वाले कर्मचारी के मामले में, चार पूर्ण सप्ताह में;\nIII. दैनिक वेतन पाने वाले कर्मचारी के मामले में, औसत वेतन देय होने की तारीख से पहले के बारह पूर्ण कार्य दिवसों में।\nIV. यदि श्रमिक ने, यथास्थिति, तीन पूर्ण कैलेण्डर मास या चार पूर्ण सप्ताह या बारह पूर्ण कार्य दिवस काम किया है, और जहां ऐसी गणना नहीं की जा सकती है, वहां औसत वेतन की गणना उस अवधि के दौरान श्रमिक को देय मजदूरी के औसत के रूप में की जाएगी, जिसमें उसने वास्तव में काम किया है",
+    "opts": [
+      { "key": "A", "en": "Option I, II & III only.", "hi": "केवल विकल्प I, II एवं III." },
+      { "key": "B", "en": "Option II, III & IV only.", "hi": "केवल विकल्प II, III एवं IV." },
+      { "key": "C", "en": "All the given Options are correct.", "hi": "दिए गए सभी विकल्प सही हैं।" },
+      { "key": "D", "en": "None of the given options is correct.", "hi": "दिए गए विकल्पों में से कोई भी सही नहीं है।" }
+    ],
+    "ans": "C"
+  },
+  {
+    "en": "Select the CORRECT name of the Allowance payable to Running staff when they are required to perform non-running duties, in the interest of Railway service?",
+    "hi": "रेलवे सेवा के हित में, जब रनिंग स्टाफ को गैर-रनिंग ड्यूटी करने की आवश्यकता होती है, तो उन्हें देय भत्ते का सही नाम चुनें?",
+    "opts": [
+      { "key": "A", "en": "Allowance in lieu of Kilometreage.", "hi": "किलोमीटर के बदले भत्ता." },
+      { "key": "B", "en": "Kilometreage Allowance.", "hi": "किलोमीटर भत्ता." },
+      { "key": "C", "en": "Shunting duty Allowance.", "hi": "शंटिंग ड्यूटी भत्ता." },
+      { "key": "D", "en": "None of the given options is correct.", "hi": "दिए गए विकल्पों में से कोई भी सही नहीं है।" }
+    ],
+    "ans": "A"
+  },
+  {
+    "en": "Which is the Medical Classification prescribed for the posts of Loco Pilots?",
+    "hi": "लोको पायलट के पदों के लिए कौन सा चिकित्सा वर्गीकरण निर्धारित है?",
+    "opts": [
+      { "key": "A", "en": "BEE-ONE (B-1)", "hi": "बी-वन (बी-1)" },
+      { "key": "B", "en": "AYE-TWO (A-2)", "hi": "ऐ-दो (A-2)" },
+      { "key": "C", "en": "AYE-ONE (A-1)", "hi": "ऐ-वन (A-1)" },
+      { "key": "D", "en": "None of the given Options is correct.", "hi": "दिए गए विकल्पों में से कोई भी सही नहीं है" }
+    ],
+    "ans": "C"
+  },
+  {
+    "en": "What is the name of the fund, which is kept at the disposal of President of India for meeting unforeseen expenditure, pending authorization from Parliament?",
+    "hi": "उस निधि का नाम क्या है, जो संसद से प्राधिकरण प्राप्त होने तक अप्रत्याशित व्यय को पूरा करने के लिए भारत के राष्ट्रपति के पास रखी जाती है?",
+    "opts": [
+      { "key": "A", "en": "Public Account of India.", "hi": "भारत का सार्वजनिक लेखा" },
+      { "key": "B", "en": "Contingency Fund of India.", "hi": "भारत की आकस्मिकता निधि" },
+      { "key": "C", "en": "Consolidated Fund of India.", "hi": "भारत की संचित निधि" },
+      { "key": "D", "en": "None of the given Options is correct.", "hi": "दिए गए विकल्पों में से कोई भी सही नहीं है" }
+    ],
+    "ans": "B"
+  },
+  {
+    "en": "In terms of Factories Act, 1948, \"adult\" means a person, who has completed his......year of age.",
+    "hi": "कारखाना अधिनियम, 1948 के अनुसार, \"वयस्क\" से तात्पर्य ऐसे व्यक्ति से है, जिसने अपनी ....... वर्ष की आयु पूरी कर ली है।",
+    "opts": [
+      { "key": "A", "en": "18th", "hi": "18 वीं" },
+      { "key": "B", "en": "15th", "hi": "15 वीं" },
+      { "key": "C", "en": "16th", "hi": "16 वीं" },
+      { "key": "D", "en": "None of the given Options is correct.", "hi": "दिए गए विकल्पों में से कोई भी सही नहीं है।" }
+    ],
+    "ans": "A"
+  },
+  {
+    "en": "Which of the following fits into the definition of \"factory\" in terms of Factories Act, 1948?\nI. Whereon 10 or more workers are working, or were working on any day of the preceding 12 months, and in any part of which a manufacturing process is being carried on with the aid of power.\nII. Whereon 20 or more workers are working, or were working on any day of the preceding 12 months, and in any part of which a manufacturing process is being carried on without the aid of power.\nIII. Includes a mine.\nIV. Includes mobile unit belonging to the Armed forces of the Union, Railway Running Shed or a hotel, restaurant or eating place.",
+    "hi": "निम्नलिखित में से कौन कारखाना अधिनियम, 1948 के अनुसार \"कारखाना\" की परिभाषा में फिट बैठता है?\nI. जहां 10 या अधिक श्रमिक काम कर रहे हैं, या पिछले 12 महीनों के किसी भी दिन काम कर रहे थे और जिसके किसी भी हिस्से में बिजली की सहायता से विनिर्माण प्रक्रिया चल रही है।\nII. जहां 20 या अधिक श्रमिक काम कर रहे हैं, या पिछले 12 महीनों के किसी भी दिन काम कर रहे थे, और जिसके किसी भी हिस्से में बिजली की सहायता के बिना विनिर्माण प्रक्रिया चल रही है।\nIII. इसमें खदान शामिल है।\nIV. इसमें संघ के सशस्त्र बलों से संबंधित मोबाइल यूनिट, रेलवे रनिंग शेड या होटल, रेस्तरां या खाने की जगह शामिल है।",
+    "opts": [
+      { "key": "A", "en": "Option I, II & III only.", "hi": "केवल विकल्प I, II एवं III." },
+      { "key": "B", "en": "Option III & IV only.", "hi": "केवल विकल्प III एवं IV." },
+      { "key": "C", "en": "Option I & II only.", "hi": "केवल विकल्प I और II." },
+      { "key": "D", "en": "None of the given Options is correct.", "hi": "दिए गए विकल्पों में से कोई भी सही नहीं है।" }
+    ],
+    "ans": "C"
+  },
+  {
+    "en": "As per Section 2 (zq) of the Industrial Relations Code, 2020, the term \"wages\" includes which of the following?\nA. Basic Pay.\nB. Dearness Allowance.\nC. Retaining Allowance.\nD. Any Overtime Allowance.",
+    "hi": "औद्योगिक संबंध संहिता, 2020 की धारा 2 (zq) के अनुसार, \"मजदूरी\" शब्द में निम्नलिखित में से क्या शामिल है?\nA. मूल वेतन।\nB. महंगाई भत्ता।\nC. रिटेनिंग भत्ता।\nD. कोई भी ओवरटाइम भत्ता।",
+    "opts": [
+      { "key": "A", "en": "A & C only.", "hi": "केवल A और C" },
+      { "key": "B", "en": "A, B & C only.", "hi": "केवल A, B और C" },
+      { "key": "C", "en": "A & D only.", "hi": "केवल A एवं D" },
+      { "key": "D", "en": "None of the given options is correct.", "hi": "दिए गए विकल्पों में से कोई भी सही नहीं है" }
+    ],
+    "ans": "B"
+  },
+  {
+    "en": "In accordance with the Industrial Relations Code, 2020, any ...... or more members of a Trade Union complying with the provisions of this Code may apply for registration of the Trade Union.",
+    "hi": "औद्योगिक संबंध संहिता, 2020 के अनुसार, इस संहिता के प्रावधानों का अनुपालन करने वाले ट्रेड यूनियन के कोई भी...... या अधिक सदस्य ट्रेड यूनियन के पंजीकरण के लिए आवेदन कर सकते हैं।",
+    "opts": [
+      { "key": "A", "en": "15", "hi": "15" },
+      { "key": "B", "en": "10", "hi": "10" },
+      { "key": "C", "en": "7", "hi": "7" },
+      { "key": "D", "en": "None of the given Options is correct.", "hi": "दिए गए विकल्पों में से कोई भी सही नहीं है।" }
+    ],
+    "ans": "C"
+  },
+  {
+    "en": "As per Section 62 (1) (a) of the Industrial Relations Code, 2020, a person employed in an industrial establishment shall not go on \"Strike\", in breach of contract without giving to the employer notice of strike, within ..... days before striking.",
+    "hi": "औद्योगिक संबंध संहिता, 2020 की धारा 62 (1) (ए) के अनुसार, किसी औद्योगिक प्रतिष्ठान में कार्यरत व्यक्ति हड़ताल करने से पहले..... दिनों के भीतर नियोक्ता को हड़ताल की सूचना दिए बिना अनुबंध का उल्लंघन करते हुए \"हड़ताल\" पर नहीं जाएगा।",
+    "opts": [
+      { "key": "A", "en": "45", "hi": "45" },
+      { "key": "B", "en": "60", "hi": "60" },
+      { "key": "C", "en": "30", "hi": "30" },
+      { "key": "D", "en": "None of the given Options is correct.", "hi": "दिए गए विकल्पों में से कोई भी सही नहीं है।" }
+    ],
+    "ans": "B"
+  },
+  {
+    "en": "As per Industrial Relations Code, 2020, under what conditions, a worker employed in any industry, who has been in continuous service for not less than one year under an employer shall be retrenched by that employer?\n1. The worker has been given one month's notice in writing indicating the reasons for retrenchment.\nII. The period of notice has expired.\nIII. The worker has been paid, at the time of retrenchment, compensation equivalent to 15 days' average pay.\nIV. Notice, as prescribed, is served on the appropriate Government.",
+    "hi": "औद्योगिक संबंध संहिता, 2020 के अनुसार, किन परिस्थितियों में किसी उद्योग में कार्यरत कोई कर्मचारी, जो किसी नियोक्ता के अधीन कम से कम एक वर्ष तक लगातार सेवा में रहा हो, उस नियोक्ता द्वारा छंटनी की जाएगी?\n1. कर्मचारी को छंटनी के कारणों को बताते हुए एक महीने का लिखित नोटिस दिया गया है।\nII. नोटिस की अवधि समाप्त हो गई है।\nIII. छंटनी के समय कर्मचारी को 15 दिनों के औसत वेतन के बराबर मुआवजा दिया गया है।\nIV. निर्धारित अनुसार नोटिस उपयुक्त सरकार को दिया गया है।",
+    "opts": [
+      { "key": "A", "en": "Option I, II & III only.", "hi": "केवल विकल्प I, II एवं III" },
+      { "key": "B", "en": "Option II, III & IV only.", "hi": "केवल विकल्प II, III एवं IV" },
+      { "key": "C", "en": "All the given options.", "hi": "सभी दिए गए विकल्प" },
+      { "key": "D", "en": "None of the given Options is correct.", "hi": "दिए गए विकल्पों में से कोई भी सही नहीं है।" }
+    ],
+    "ans": "C"
+  },
+  {
+    "en": "Expand IREPS?",
+    "hi": "आईआरईपीएस का विस्तार करें?",
+    "opts": [
+      { "key": "A", "en": "Indian Railways E-Performance System.", "hi": "भारतीय रेलवे ई-प्रदर्शन प्रणाली" },
+      { "key": "B", "en": "Indian Railways E-Production System.", "hi": "भारतीय रेलवे ई-उत्पादन प्रणाली" },
+      { "key": "C", "en": "Indian Railways E-Procurement System.", "hi": "भारतीय रेलवे ई-खरीद प्रणाली" },
+      { "key": "D", "en": "None of the given Options is correct.", "hi": "दिए गए विकल्पों में से कोई भी सही नहीं है" }
+    ],
+    "ans": "C"
+  },
+  {
+    "en": "What is the name of the technique used to classify inventory items based on their consumption rate or movement speed, which helps businesses understand which items are frequently used, which are used less often, and which are virtually not being used at all?",
+    "hi": "इन्वेंट्री आइटमों को उनकी खपत दर या गति के आधार पर वर्गीकृत करने के लिए उपयोग की जाने वाली तकनीक का नाम क्या है, जो व्यवसायों को यह समझने में मदद करती है कि कौन सी वस्तुएं अक्सर उपयोग की जाती हैं, कौन सी कम बार उपयोग की जाती हैं, और कौन सी वास्तव में बिल्कुल भी उपयोग नहीं की जाती हैं?",
+    "opts": [
+      { "key": "A", "en": "SDE Analysis.", "hi": "एसडीई विश्लेषण." },
+      { "key": "B", "en": "FSN Analysis.", "hi": "एफएसएन विश्लेषण" },
+      { "key": "C", "en": "SOS Analysis.", "hi": "एसओएस विश्लेषण" },
+      { "key": "D", "en": "None of the given options is correct.", "hi": "दिए गए विकल्पों में से कोई भी सही नहीं है।" }
+    ],
+    "ans": "B"
+  },
+  {
+    "en": "The module launched by Hon'ble Prime Minister of India to impart induction training to all new joinees in the Government, which offers an opportunity to build capacities of Government servants in the initial stages and enable them to contribute to nation building is called as..........?",
+    "hi": "भारत के माननीय प्रधान मंत्री द्वारा सरकार में शामिल सभी नए लोगों को प्रारंभिक प्रशिक्षण प्रदान करने के लिए शुरू किया गया मॉड्यूल, जो प्रारंभिक चरणों में सरकारी कर्मचारियों की क्षमता निर्माण करने और उन्हें राष्ट्र निर्माण में योगदान करने में सक्षम बनाने का अवसर प्रदान करता है, उसे .......... कहा जाता है।",
+    "opts": [
+      { "key": "A", "en": "SWAYAM.", "hi": "स्वयं" },
+      { "key": "B", "en": "Karmayogi Prarambh.", "hi": "कर्मयोगी प्रारम्भ" },
+      { "key": "C", "en": "SANKALP (Skill Acquisition and Knowledge Awareness for Livelihood Promotion).", "hi": "संकल्प (आजीविका संवर्धन के लिए कौशल अधिग्रहण और ज्ञान जागरूकता)।" },
+      { "key": "D", "en": "None of the given options is correct.", "hi": "दिए गए विकल्पों में से कोई भी सही नहीं है।" }
+    ],
+    "ans": "B"
+  },
+  {
+    "en": "Anubhav Portal: A retiring / retired employees can share their write-ups on Anubhav Portal. Among the following categories, in which categories, they can write?\nI. Simplification of procedures.\nII. Development of personal traits while in service.\nIII. Learning from Failures.\nIV. Government process re-engineering.\nV. Constructive feedback or suggestion to improve the line of work, he/she was part of.",
+    "hi": "अनुभव पोर्टल: सेवानिवृत्त होने वाले कर्मचारी अपने लेख अनुभव पोर्टल पर साझा कर सकते हैं। निम्नलिखित श्रेणियों में से, वे किस श्रेणी में लिख सकते हैं?\nI. क्रियाओं का सरलीकरण।\nII. सेवा में रहते हुए व्यक्तिगत गुणों का विकास।\nIII. असफलताओं से सीखना।\nIV. सरकारी क्रियाओं का पुनः अभियांत्रिकीकरण।\nV. उस कार्य को बेहतर बनाने के लिए रचनात्मक प्रतिक्रिया या सुझाव, जिसका वह हिस्सा था।",
+    "opts": [
+      { "key": "A", "en": "Category I, II & III only", "hi": "केवल श्रेणी I, II और III" },
+      { "key": "B", "en": "Category I, III, IV & V only", "hi": "केवल श्रेणी I, III, IV और V" },
+      { "key": "C", "en": "All the given Options.", "hi": "दिए गए सभी विकल्प" },
+      { "key": "D", "en": "None of the given options", "hi": "इनमें से कोई नहीं" }
+    ],
+    "ans": "C"
+  },
+  {
+    "en": "What is the name of online learning platform developed as an integral part of the Digital India stack for capacity building of all government employees, providing ‘anytime-anywhere-any device’ learning to train the users?",
+    "hi": "सभी सरकारी कर्मचारियों के क्षमता निर्माण के लिए डिजिटल इंडिया स्टैक के एक अभिन्न अंग के रूप में विकसित ऑनलाइन शिक्षण मंच का नाम क्या है, जो उपयोगकर्ताओं को शिक्षित करने के लिए ‘कभी भी-कहीं भी-किसी भी डिवाइस’ पर शिक्षण प्रदान करता है?",
+    "opts": [
+      { "key": "A", "en": "SWAYAM portal", "hi": "स्वयं पोर्टल" },
+      { "key": "B", "en": "DIKSHA portal", "hi": "दीक्षा पोर्टल" },
+      { "key": "C", "en": "iGOT Karmayogi portal.", "hi": "iGOT कर्मयोगी पोर्टल" },
+      { "key": "D", "en": "None of the given options", "hi": "इनमें से कोई नहीं" }
+    ],
+    "ans": "C"
+  },
+  {
+    "en": "In accordance with the Code on Wages, 2019, which of the following is/are CORRECT regarding disqualification of an employee from receiving bonus?\nI. If he is dismissed from service for fraud.\nII. If he is dismissed from service for riotous or violent behaviour while on the premises of the establishment.\nIII. If he is dismissed from service for conviction on sexual harassment.",
+    "hi": "वेतन संहिता, 2019 के अनुसार, बोनस प्राप्त करने से किसी कर्मचारी की अयोग्यता के संबंध में निम्नलिखित में से कौन सा/से कथन सही है/हैं?\nI. यदि उसे धोखाधड़ी के लिए सेवा से बर्खास्त किया जाता है।\nII. यदि उसे प्रतिष्ठान के परिसर में दंगा या हिंसक व्यवहार के लिए सेवा से बर्खास्त किया जाता है।\nIII. यदि उसे यौन उत्पीड़न के लिए दोषी ठहराए जाने के कारण सेवा से बर्खास्त किया जाता है।",
+    "opts": [
+      { "key": "A", "en": "I & II only", "hi": "केवल I और II" },
+      { "key": "B", "en": "II & III only", "hi": "केवल II और III" },
+      { "key": "C", "en": "All the given Options are correct.", "hi": "दिए गए सभी विकल्प सही हैं।" },
+      { "key": "D", "en": "None of the given options", "hi": "इनमें से कोई नहीं" }
+    ],
+    "ans": "C"
+  },
+  {
+    "en": "Which of the following subject can be taken up for redress in Centralised Public Grievance Redress and Monitoring System (CPGRAMS)?\nI. RTI matters.\nII. Court related / Sub-judice matters.\nIII. Religious matters.\nIV. Suggestions.",
+    "hi": "निम्नलिखित में से कौन सा विषय केंद्रीयकृत लोक शिकायत निवारण एवं निगरानी प्रणाली (CPGRAMS) में निवारण के लिए लिया जा सकता है?\nI. आरटीआई मामले\nII. न्यायालय से संबंधित/ सब-जूडिसी मामले\nIII. धार्मिक मामले\nIV. सुझाव",
+    "opts": [
+      { "key": "A", "en": "I, II & III only", "hi": "केवल I, II और III" },
+      { "key": "B", "en": "I & IV only", "hi": "केवल I और IV" },
+      { "key": "C", "en": "All the above", "hi": "उपरोक्त सभी" },
+      { "key": "D", "en": "None of the given Options is correct.", "hi": "दिए गए विकल्पों में से कोई भी सही नहीं है" }
+    ],
+    "ans": "D"
+  },
+  {
+    "en": "In recruitment against Cultural Quota in Railways, how many marks allotted for the “Practical demonstration”?",
+    "hi": "रेलवे में सांस्कृतिक कोटे के तहत भर्ती में, “व्यावहारिक दर्शन” के लिए कितने अंक आवंटित किए जाते हैं?",
+    "opts": [
+      { "key": "A", "en": "50 marks", "hi": "50 अंक" },
+      { "key": "B", "en": "40 marks", "hi": "40 अंक" },
+      { "key": "C", "en": "35 marks", "hi": "35 अंक" },
+      { "key": "D", "en": "None of the given options", "hi": "इनमें से कोई नहीं" }
+    ],
+    "ans": "C"
+  },
+  {
+    "en": "What is the quota allotted to “Headquarter of each Zonal Railway” and “each Division of Zonal Railway” for recruitment against Sports Quota through Open Advertisement in Level-1 posts?",
+    "hi": "लेवल-1 पदों पर खुले विज्ञापन के माध्यम से खेल कोटे के तहत भर्ती के लिए “प्रत्येक क्षेत्रीय रेलवे के मुख्यालय” और “क्षेत्रीय रेलवे के प्रत्येक मंडल” को कितना कोटा आवंटित किया गया है?",
+    "opts": [
+      { "key": "A", "en": "Headquarter-12 and each Division-06", "hi": "12-मुख्यालय और 06-प्रत्येक डिवीजन" },
+      { "key": "B", "en": "Headquarter-15 and each Division-08", "hi": "15-मुख्यालय और 08-प्रत्येक डिवीजन" },
+      { "key": "C", "en": "Headquarter-10 and each Division-05", "hi": "10-मुख्यालय और 05-प्रत्येक डिवीजन" },
+      { "key": "D", "en": "None of the given options", "hi": "इनमें से कोई नहीं" }
+    ],
+    "ans": "C"
+  },
+  {
+    "en": "In Sports recruitments, representing the country in Olympic Games comes under which Category?",
+    "hi": "खेल भर्ती में, ओलंपिक खेलों में देश का प्रतिनिधित्व करना किस श्रेणी के अंतर्गत आता है?",
+    "opts": [
+      { "key": "A", "en": "Category-A", "hi": "श्रेणी-ए" },
+      { "key": "B", "en": "Category-B", "hi": "श्रेणी-बी" },
+      { "key": "C", "en": "Category-C", "hi": "श्रेणी-सी" },
+      { "key": "D", "en": "None of the given options", "hi": "इनमें से कोई नहीं" }
+    ],
+    "ans": "A"
+  },
+  {
+    "en": "In respect of promotions to non-selection post, which of the following is/are CORRECT?\nI. Staff in the immediate lower grade with a minimum service of two years in that grade will only be eligible for promotion.\nII. The condition of two years’ service should stand fulfilled at the time of actual promotion and not necessarily at the stage of consideration.\nIII. The Service, if any, rendered on adhoc basis, followed by regular service without break will not be taken into account for calculating the period of service.\nIV. An employee who has passed a suitability test once need not be called for the test again and should be eligible for promotion as and when vacancies arise.",
+    "hi": "गैर-चयन पद पर पदोन्नति के संबंध में, निम्नलिखित में से कौन सा/से सही है/हैं?\nI. उस ग्रेड में न्यूनतम दो वर्ष की सेवा वाले तत्काल निचले ग्रेड के कर्मचारी ही पदोन्नति के लिए पात्र होंगे।\nII. दो वर्ष की सेवा की शर्त वास्तविक पदोन्नति के समय पूरी होनी चाहिए, जरूरी नहीं कि विचार के चरण में ही हो।\nIII. तदर्थ आधार पर की गई सेवा, जिसके बाद बिना किसी व्यवधान के नियमित सेवा की गई हो, सेवा की अवधि की गणना के लिए ध्यान में नहीं रखी जाएगी।\nIV. एक कर्मचारी जिसने एक बार उपयुक्तता परीक्षा उत्तीर्ण कर ली है, उसे दोबारा परीक्षा के लिए बुलाए जाने की आवश्यकता नहीं है और रिक्तियां होने पर वह पदोन्नति के लिए पात्र होना चाहिए।",
+    "opts": [
+      { "key": "A", "en": "Option I, II & III only", "hi": "केवल विकल्प I, II और III" },
+      { "key": "B", "en": "Option I, II & IV only", "hi": "केवल विकल्प I, II और IV" },
+      { "key": "C", "en": "All the options are correct", "hi": "सभी विकल्प सही हैं" },
+      { "key": "D", "en": "None of the given options", "hi": "इनमें से कोई नहीं" }
+    ],
+    "ans": "B"
+  },
+  {
+    "en": "How the seniority of the candidates, who are recruited by RRB in one exam batch and sent for initial training to Training School in one batch, is determined?",
+    "hi": "रेलवे भर्ती बोर्ड द्वारा एक परीक्षा बैच में भर्ती किए गए तथा एक बैच में शिक्षण स्कूल में प्रारंभिक शिक्षण के लिए भेजे गए अभ्यर्थियों की वरीयता किस प्रकार निर्धारित की जाती है?",
+    "opts": [
+      { "key": "A", "en": "According to the RRB merit rank.", "hi": "आरआरबी मेरिट रैंक के अनुसार।" },
+      { "key": "B", "en": "The seniority will be determined in the order of over-all merit obtained in the examination(s) held in the Training School at the end of the training period(s).", "hi": "वरीयता का निर्धारण शिक्षण अवधि के अंत में शिक्षण विद्यालय में आयोजित परीक्षा में प्राप्त समग्र योग्यता के आधार पर किया जाएगा।" },
+      { "key": "C", "en": "According to the date of joining the training school.", "hi": "शिक्षण स्कूल में शामिल होने की तिथि के अनुसार।" },
+      { "key": "D", "en": "None of the given options", "hi": "इनमें से कोई नहीं" }
+    ],
+    "ans": "B"
+  },
+  {
+    "en": "Which of the following is/are CORRECT regarding Breach of Rest Allowance?\nI. The allowance shall be payable as Overtime Allowance under HOER.\nII. The allowance is payable at the rate of 2 hours for every hour.\nIII. Period of less than half an hour being neglected.\nIV. Period of half an hour or more shall be rounded off to one hour.",
+    "hi": "विश्राम भत्ते के उल्लंघन के संबंध में निम्नलिखित में से कौन सा/से कथन सही है/हैं?\nI. भत्ता HOER के तहत ओवरटाइम भत्ते के रूप में देय होगा।\nII. भत्ता प्रत्येक घंटे के लिए 2 घंटे की दर से देय है।\nIII. आधे घंटे से कम की अवधि की उपेक्षा की जा रही है।\nIV. आधे घंटे या उससे अधिक की अवधि को एक घंटे में पूर्णांकित किया जाएगा।",
+    "opts": [
+      { "key": "A", "en": "I & II only", "hi": "केवल I और II" },
+      { "key": "B", "en": "I, III & IV only", "hi": "केवल I, III और IV" },
+      { "key": "C", "en": "All the given options.", "hi": "सभी दिए गए विकल्प" },
+      { "key": "D", "en": "None of the given options", "hi": "इनमें से कोई नहीं" }
+    ],
+    "ans": "C"
+  },
+  {
+    "en": "The definition of an addition of the nature of pay, to the emoluments of a post or of a Railway servant, granted in consideration of, (a) the specially arduous nature of duties; or (b) a specific addition to the work or responsibility and includes non-practicing allowance granted to doctors in lieu of private practice, is called as___________?",
+    "hi": "किसी पद या रेलवे कर्मचारी के वेतन में वेतन की प्रकृति में वृद्धि की परिभाषा, जो (क) कर्तव्यों की विशेष रूप से कठिन प्रकृति; या (ख) कार्य या जिम्मेदारी में विशिष्ट वृद्धि के आधार पर दी जाती है और इसमें निजी प्रैक्टिस के बदले डॉक्टरों को दिया जाने वाला गैर-प्रैक्टिसिंग भत्ता शामिल है, को ____________ कहा जाता है?",
+    "opts": [
+      { "key": "A", "en": "Personal Pay", "hi": "व्यक्तिगत वेतन" },
+      { "key": "B", "en": "Honorarium", "hi": "मानदेय" },
+      { "key": "C", "en": "Special Pay.", "hi": "विशेष वेतन" },
+      { "key": "D", "en": "None of the given options", "hi": "इनमें से कोई नहीं" }
+    ],
+    "ans": "C"
+  },
+  {
+    "en": "Under Employees Compensation Act, 1923, within what time-limit, the compensation to be paid?",
+    "hi": "कर्मचारी क्षतिपूर्ति अधिनियम, 1923 के तहत किस समय-सीमा के भीतर क्षतिपूर्ति दिया जाना चाहिए?",
+    "opts": [
+      { "key": "A", "en": "Within six months.", "hi": "छह महीने के भीतर।" },
+      { "key": "B", "en": "Within three months.", "hi": "तीन महीने के भीतर।" },
+      { "key": "C", "en": "One month from the date it fell due.", "hi": "इसकी देय तिथि से एक माह बाद।" },
+      { "key": "D", "en": "None of the given options", "hi": "इनमें से कोई नहीं" }
+    ],
+    "ans": "C"
+  },
+  {
+    "en": "A Railway servant, who is working in Central Railway at Mumbai has been transferred to South Eastern Railway at Kolkata, which is located at a distance of @ 1,900 kms away, on administrative grounds. What is the joining time admissible to that Railway servant?",
+    "hi": "मुंबई में सेंट्रल रेलवे में कार्यरत एक रेलवे कर्मचारी को प्रशासनिक आधार पर कोलकाता में दक्षिण पूर्व रेलवे में स्थानांतरित कर दिया गया है, जो 1,900 किलोमीटर की दूरी पर स्थित है। उस रेलवे कर्मचारी को कार्यभार ग्रहण करने का समय क्या है?",
+    "opts": [
+      { "key": "A", "en": "10 days", "hi": "10 दिन" },
+      { "key": "B", "en": "12 days", "hi": "12 दिन" },
+      { "key": "C", "en": "15 days", "hi": "15 दिन" },
+      { "key": "D", "en": "None of the given options", "hi": "इनमें से कोई नहीं" }
+    ],
+    "ans": "B"
+  },
+  {
+    "en": "Which of the following is/are CORRECT about the Ad-hoc promotions in non-Gazetted posts?\nI. Adhoc promotion is permissible in Selection posts only.\nII. Adhoc promotion is permissible in Selection and Non-Selections posts.\nIII. Adhoc promotion requires the personal approval of the Chief Personnel Officer (now, Principal Chief Personnel Officer).\nIV. A Railway servant, who had passed the Written Test in the previous selection only, is eligible for adhoc promotion.",
+    "hi": "गैर-राजपत्रित पदों में तदर्थ पदोन्नति के बारे में निम्नलिखित में से कौन सा/से कथन सही है/हैं?\nI. तदर्थ पदोन्नति केवल चयन पदों में ही स्वीकार्य है।\nII. तदर्थ पदोन्नति चयन और गैर-चयन पदों में स्वीकार्य है।\nIII. तदर्थ पदोन्नति के लिए मुख्य कार्मिक अधिकारी (अब, प्रधान मुख्य कार्मिक अधिकारी) की व्यक्तिगत स्वीकृति की आवश्यकता होती है।\nIV. एक रेलवे कर्मचारी, जिसने पिछले चयन में लिखित परीक्षा उत्तीर्ण की थी केवल तदर्थ पदोन्नति के लिए पात्र है।",
+    "opts": [
+      { "key": "A", "en": "I & III only", "hi": "केवल I और III" },
+      { "key": "B", "en": "II & III only", "hi": "केवल II और III" },
+      { "key": "C", "en": "II & IV only", "hi": "केवल II और IV" },
+      { "key": "D", "en": "None of the given options", "hi": "इनमें से कोई नहीं" }
+    ],
+    "ans": "B"
+  },
+  {
+    "en": "In Ministry of Railways, who has got the powers to accord approval for creation of new posts equivalent to SAG and above levels (Pay Level-14 & above), at present?",
+    "hi": "रेल मंत्रालय में, वर्तमान में, एसएजी और उससे ऊपर के स्तर (वेतन स्तर -14 और उससे ऊपर) के समकक्ष नए पदों के सृजन के लिए अनुमोदन देने की शक्तियां किसे प्राप्त हैं?",
+    "opts": [
+      { "key": "A", "en": "Appointments Committee of the Cabinet (ACC)", "hi": "कैबिनेट की नियुक्ति समिति (एसीसी)" },
+      { "key": "B", "en": "Railway Board", "hi": "रेलवे बोर्ड" },
+      { "key": "C", "en": "Minister of Railways", "hi": "रेल मंत्री" },
+      { "key": "D", "en": "None of the given options", "hi": "इनमें से कोई नहीं" }
+    ],
+    "ans": "A"
+  },
+  {
+    "en": "The District Collector and the State Level Scrutiny Committee had declared that a Railway servant, who got appointment in Railways against ST Quota, does not belong to ST Community and the ST community certificate submitted by him at the time of joining the service is bogus. Which of the following can be imposed against the Railway Servant?",
+    "hi": "जिला कलेक्टर और राज्य स्तरीय छानबीन समिति ने घोषित किया था कि रेलवे में एसटी कोटे के तहत नियुक्ति पाने वाला एक रेलवे कर्मचारी एसटी समुदाय से संबंधित नहीं है और सेवा में शामिल होने के समय उसके द्वारा प्रस्तुत एसटी समुदाय प्रमाण पत्र फर्जी है। रेलवे कर्मचारी के खिलाफ निम्नलिखित में से कौन सा लगाया जा सकता है?",
+    "opts": [
+      { "key": "A", "en": "The services of the Railway Servant can be terminated by the competent authority without issuing show cause notice.", "hi": "रेलवे कर्मचारी की सेवाएं सक्षम प्राधिकारी द्वारा कारण बताओ नोटिस जारी किए बिना समाप्त की जा सकती हैं।" },
+      { "key": "B", "en": "A major penalty charge sheet must be issued.", "hi": "एक बड़ी पेनल्टी चार्जशीट जारी की जानी चाहिए।" },
+      { "key": "C", "en": "Compulsory retirement must be given.", "hi": "अनिवार्य सेवानिवृत्ति दी जानी चाहिए।" },
+      { "key": "D", "en": "None of the given options", "hi": "इनमें से कोई नहीं" }
+    ],
+    "ans": "A"
+  },
+  {
+    "en": "Which Rule of Railway Servants (Discipline & Appeal) Rules, 1968 communicates the procedure for imposing Minor Penalties?",
+    "hi": "रेलवे सेवक (अनुशासन एवं अपील) नियम, 1968 का कौन सा नियम माइनर पेनालटी लगाने की प्रक्रिया बताता है?",
+    "opts": [
+      { "key": "A", "en": "Rule 9", "hi": "नियम 9" },
+      { "key": "B", "en": "Rule 10", "hi": "नियम 10" },
+      { "key": "C", "en": "Rule 14", "hi": "नियम 14" },
+      { "key": "D", "en": "Rule 11.", "hi": "नियम 11।" }
+    ],
+    "ans": "D"
+  },
+  {
+    "en": "Which Rule of Railway Servants (Discipline & Appeal) Rules, 1968, deals with the period of limitation for appeals?",
+    "hi": "रेलवे सेवक (अनुशासन एवं अपील) नियम, 1968 का कौन सा नियम अपील की सीमा अवधि से संबंधित है?",
+    "opts": [
+      { "key": "A", "en": "Rule 18", "hi": "नियम 18" },
+      { "key": "B", "en": "Rule 20.", "hi": "नियम 20।" },
+      { "key": "C", "en": "Rule 22", "hi": "नियम 22" },
+      { "key": "D", "en": "None of the given options", "hi": "इनमें से कोई नहीं" }
+    ],
+    "ans": "B"
+  },
+  {
+    "en": "In case, doubt arises as to the interpretation of any of the provisions of Railway Servants (Discipline & Appeal) Rules, 1968, who is competent to decide the matter?",
+    "hi": "यदि रेलवे सेवक (अनुशासन एवं अपील) नियम, 1968 के किसी प्रावधान की व्याख्या के संबंध में संदेह उत्पन्न होता है, तो मामले पर निर्णय लेने के लिए कौन सक्षम है ?",
+    "opts": [
+      { "key": "A", "en": "General Manager", "hi": "महाप्रबंधक" },
+      { "key": "B", "en": "Principal Chief Personnel Officer", "hi": "प्रधान मुख्य कार्मिक अधिकारी" },
+      { "key": "C", "en": "Member Staff", "hi": "सदस्य स्टाफ" },
+      { "key": "D", "en": "The President through Railway Board.", "hi": "राष्ट्रपति रेलवे बोर्ड द्वारा" }
+    ],
+    "ans": "D"
+  },
+  {
+    "en": "What is the quantum of additional Pension / Family Pension available to the old Pensioners / Family Pensioners, when they cross the age of 85 years to less than 90 years?",
+    "hi": "वृद्ध पेंशनभोगियों /पारिवारिक पेंशनभोगियों को उपलब्ध अतिरिक्त पेंशन/पारिवारिक पेंशन की मात्रा क्या है, जब उनकी आयु 85 वर्ष से 90 वर्ष से कम हो जाती है?",
+    "opts": [
+      { "key": "A", "en": "20% of revised Basic Pension / Family Pension.", "hi": "संशोधित मूल पेंशन/पारिवारिक पेंशन का 20%" },
+      { "key": "B", "en": "30% of revised Basic Pension / Family Pension.", "hi": "संशोधित मूल पेंशन/पारिवारिक पेंशन का 30%" },
+      { "key": "C", "en": "40% of revised Basic Pension / Family Pension.", "hi": "संशोधित मूल पेंशन/पारिवारिक पेंशन का 40%" },
+      { "key": "D", "en": "None of the given options", "hi": "इनमें से कोई नहीं" }
+    ],
+    "ans": "B"
+  },
+  {
+    "en": "If the age of the Pensioner crosses from 100 years or more, he/she is entitled to how much additional Pension?",
+    "hi": "यदि पेंशनभोगी की आयु 100 वर्ष या उससे अधिक हो जाती है, तो वह कितनी अतिरिक्त पेंशन पाने का हकदार है?",
+    "opts": [
+      { "key": "A", "en": "50%", "hi": "50%" },
+      { "key": "B", "en": "70%", "hi": "70%" },
+      { "key": "C", "en": "80%", "hi": "80%" },
+      { "key": "D", "en": "100%", "hi": "100%" }
+    ],
+    "ans": "D"
+  },
+  {
+    "en": "On completion of how many years, Railway pensioners, who have commuted a portion of their pension get their pension restored?",
+    "hi": "रेलवे पेंशनभोगियों, जिन्होंने अपनी पेंशन का एक हिस्सा परिवर्तित कर लिया है, की कितने वर्ष की सेवा पूरी होने पर पेंशन बहाल हो जाती है?",
+    "opts": [
+      { "key": "A", "en": "12 years", "hi": "12 वर्ष" },
+      { "key": "B", "en": "10 years", "hi": "10 वर्ष" },
+      { "key": "C", "en": "14 years", "hi": "14 वर्ष" },
+      { "key": "D", "en": "None of the given Options is correct.", "hi": "दिए गए विकल्पों में से कोई भी सही नहीं है।" }
+    ],
+    "ans": "D"
+  },
+  {
+    "en": "What is meant by Wagon turn-round?",
+    "hi": "वैगन टर्न-राउंड से क्या तात्पर्य है?",
+    "opts": [
+      { "key": "A", "en": "Time elapsed between two loading cycles of a train.", "hi": "एक ट्रेन के दो लोडिंग चक्रों के बीच बीता समय।" },
+      { "key": "B", "en": "Average speed of a wagon.", "hi": "एक वैगन की औसत गति।" },
+      { "key": "C", "en": "Total distance traveled by a wagon in a day.", "hi": "एक दिन में एक वैगन द्वारा तय की गई कुल दूरी।" },
+      { "key": "D", "en": "Time elapsed between successive loading of a single wagon.", "hi": "एक वैगन के क्रमिक लोडिंग के बीच बीता समय।" }
+    ],
+    "ans": "D"
+  },
+  {
+    "en": "In Major and Minor Heads of Railway – Revenue, the word “X” refers to which of the following?",
+    "hi": "रेलवे के मुख्य और लघु शीर्षों - राजस्व में, शब्द “X” निम्नलिखित में से किसको संदर्भित करता है?",
+    "opts": [
+      { "key": "A", "en": "Coaching Earnings", "hi": "कोचिंग आय" },
+      { "key": "B", "en": "Goods Earnings", "hi": "माल भाड़ा आय" },
+      { "key": "C", "en": "Sundry Earnings", "hi": "विविध आय" },
+      { "key": "D", "en": "None of the given options", "hi": "इनमें से कोई नहीं" }
+    ],
+    "ans": "A"
+  },
+  {
+    "en": "Explanation:\n“True or accrued Revenue in an accounting period whether or not actually realized.”\nWhich of the following Glossary matches correctly with the above Explanation?",
+    "hi": "स्पष्टीकरण:\n“किसी लेखा अवधि में सही या अर्जित राजस्व, चाहे वह वास्तव में प्राप्त हुआ हो या नहीं।”\nनिम्नलिखित में से कौन सी ग्लॉसरी उपरोक्त स्पष्टीकरण से सही मेल खाती है?",
+    "opts": [
+      { "key": "A", "en": "Gross Revenue", "hi": "सकल राजस्व" },
+      { "key": "B", "en": "Net Revenue", "hi": "शुद्ध राजस्व" },
+      { "key": "C", "en": "Deferred Revenue", "hi": "आस्थगित राजस्व" },
+      { "key": "D", "en": "None of the given options", "hi": "इनमें से कोई नहीं" }
+    ],
+    "ans": "A"
+  },
+  {
+    "en": "Choose the CORRECT descriptions for the Plan Head Code Number of 65.",
+    "hi": "योजना शीर्ष कोड संख्या 65 के लिए सही विवरण चुनें।",
+    "opts": [
+      { "key": "A", "en": "Staff Welfare", "hi": "कर्मचारी कल्याण" },
+      { "key": "B", "en": "Training/HRD", "hi": "शिक्षण/एचआरडी" },
+      { "key": "C", "en": "Stores suspense", "hi": "स्टोर सस्पेंस" },
+      { "key": "D", "en": "None of the given Options is correct.", "hi": "दिए गए विकल्पों में से कोई भी सही नहीं है।" }
+    ],
+    "ans": "B"
+  },
+  {
+    "en": "Expand IPAS?",
+    "hi": "आईपीएएस का विस्तार?",
+    "opts": [
+      { "key": "A", "en": "Integrated Payroll & Accounting System.", "hi": "एकीकृत पेरोल और लेखा प्रणाली" },
+      { "key": "B", "en": "Individual Personal Assistance Services.", "hi": "व्यक्तिगत पर्सनल सहायता सेवाएँ" },
+      { "key": "C", "en": "Internet Payment Authorization Service.", "hi": "इंटरनेट भुगतान प्राधिकरण सेवा" },
+      { "key": "D", "en": "None of the given Options is correct.", "hi": "दिए गए विकल्पों में से कोई भी सही नहीं है" }
+    ],
+    "ans": "A"
+  }
+]

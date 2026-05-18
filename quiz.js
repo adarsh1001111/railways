@@ -11,6 +11,12 @@ let selectedOptionKey = null;
 let isAnswerSubmitted = false;
 let userAnswers = [];
 let hintUsed = [];
+let paperTitles = {};
+
+function getPaperTitle(id) {
+  if (paperTitles[id]) return paperTitles[id];
+  return id.replace(/[-_]+/g, " ");
+}
 // submittedFlags removed — answers are saved immediately and final scoring happens at finish
 
 function registerPaper(id, data) {
@@ -19,6 +25,10 @@ function registerPaper(id, data) {
 
 function loadPaper(id) {
   currentPaperId = id;
+  const currentTitle = getPaperTitle(id);
+  const titleEl = document.getElementById("quiz-title");
+  if (titleEl) titleEl.innerText = currentTitle;
+  document.title = currentTitle;
   quizData = JSON.parse(JSON.stringify(papers[id] || []));
   // ensure length and initialize answers
   if (!Array.isArray(quizData)) quizData = [];
@@ -217,6 +227,7 @@ function populatePaperList() {
       list.forEach((entry) => {
         const id = entry.id || (entry.file || "").replace(".json", "");
         const label = entry.title || id;
+        paperTitles[id] = label;
         if (chooser) {
           const o = document.createElement("option");
           o.value = id;
@@ -243,7 +254,7 @@ function populatePaperList() {
     .catch(() => {
       // fallback to in-memory papers
       Object.keys(papers).forEach((id) => {
-        const optLabel = id; // user can change label if needed
+        const optLabel = paperTitles[id] || id.replace(/[-_]+/g, " ");
         if (chooser) {
           const o = document.createElement("option");
           o.value = id;
